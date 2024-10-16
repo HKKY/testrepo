@@ -1,2 +1,2 @@
-#Displat the ouput
+#Displat the output
 print("New python project")
